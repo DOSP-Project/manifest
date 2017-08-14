@@ -13,7 +13,7 @@
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
   </project>
   <project path="art" name="platform_art" groups="pdk" remote="os" />
-  <project path="vendor/dosp" name="platform_vendor_osmium" remote="os" />
+  <project path="vendor/dosp" name="platform_vendor_dosp" remote="os" />
   <project path="bionic" name="platform_bionic" groups="pdk" remote="os" />
   <project path="development" name="platform_development" groups="pdk-cw-fs,pdk-fs" remote="os" />
   <project path="device/qcom/common" name="platform_device_qcom_common" remote="os" />
