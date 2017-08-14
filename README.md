@@ -9,6 +9,10 @@ Initialize the Repositories
 ---------------------------
     repo init -u https://github.com/DOSP-project/Desi_Goodness.git -b n7.x
 
+Initialize the Repositories with reduced download size
+------------------------------------------------------
+    repo init --depth=1 -u https://github.com/DOSP-project/Desi_Goodness.git -b n7.x
+
 Then to sync up:
 ---------------
     repo sync --force-sync --force-broken --no-clone-bundle -jxx (Ur Choice)
