@@ -7,11 +7,11 @@ To get started with the DOSP-OS sources, you'll need to get familiar with [Git a
 
 Initialize the Repositories 
 ---------------------------
-    repo init -u https://github.com/DOSP-project/Desi_Goodness.git -b n7.x
+    repo init -u https://github.com/DOSP-project/Desi_Goodness.git -b n7x
 
 Initialize the Repositories with reduced download size
 ------------------------------------------------------
-    repo init --depth=1 -u https://github.com/DOSP-project/Desi_Goodness.git -b n7.x
+    repo init --depth=1 -u https://github.com/DOSP-project/Desi_Goodness.git -b n7x
 
 Then to sync up:
 ---------------
