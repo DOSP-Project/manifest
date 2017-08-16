@@ -2,7 +2,7 @@
 <manifest>
 
   <!-- DOSP-OS -->
-  <project path="manifest" name="platform_manifest" remote="os" />
+  <project path="manifest" name="Desi_Goodness" remote="os" />
   <project path="build" name="platform_build" groups="pdk,tradefed" remote="os" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
@@ -96,7 +96,5 @@
   <project path="system/security" name="platform_system_security" groups="pdk" remote="jdc" />
   <project path="system/vold" name="platform_system_vold" groups="pdk" remote="jdc" />
   <project path="vendor/qcom/opensource/dpm/" name="android_vendor_qcom_opensource_dpm" remote="jdc" />
-
-  </project>
   
 </manifest>
