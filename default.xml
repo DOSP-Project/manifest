@@ -13,7 +13,7 @@
 
   <remote  name="os"
            fetch="https://github.com/DOSP-Project"
-           revision="n7.x" />
+           revision="n7x" />
 
   <default revision="refs/tags/android-7.1.2_r27"
            remote="aosp"
