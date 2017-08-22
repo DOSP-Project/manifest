@@ -7,23 +7,28 @@ To get started with the DOSP-OS sources, you'll need to get familiar with [Git a
 
 Initialize the Repositories 
 ---------------------------
+```bash
     repo init -u https://github.com/DOSP-project/Desi_Goodness.git -b n7x
+    ```
 
 Initialize the Repositories with reduced download size
 ------------------------------------------------------
+```bash
     repo init --depth=1 -u https://github.com/DOSP-project/Desi_Goodness.git -b n7x
-
+```
 Then to sync up:
 ---------------
+```bash
     repo sync --force-sync --force-broken --no-clone-bundle -jxx (Ur Choice)
-
+```
 
 Finally to build:
 -----------------
+```bash
     . build/envsetup.sh
      lunch desi_<device>-userdebug
      mka desi
-
+```
   
 Credits
 -------
