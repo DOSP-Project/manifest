@@ -1,6 +1,7 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/DOSP-Project/Desi_Goodness/n7x/DOSP-Logo.png" width="1000px" height="180px" > 
-</p
+<img src="https://raw.githubusercontent.com/DOSP-Project/Desi_Goodness/n7x/DOSP-Logo.png" width="1000px" height="180px" alt="DOSP logo" > 
+</p>
+
 
 DOSP-OS (The Desi OS)
 ---------------
