@@ -9,7 +9,7 @@ Initialize the Repositories
 ---------------------------
 ```bash
     repo init -u https://github.com/DOSP-project/Desi_Goodness.git -b n7x
-    ```
+```
 
 Initialize the Repositories with reduced download size
 ------------------------------------------------------
