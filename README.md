@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/DOSP-Project/Desi_Goodness/o8x/DOSP-Logo.png" width="1000px" height="180px" alt="DOSP logo" > 
+<img src="https://raw.githubusercontent.com/DOSP-Project/manifest/o8x/DOSP-Logo.png" width="1000px" height="180px" alt="DOSP logo" > 
 </p>
 
 
