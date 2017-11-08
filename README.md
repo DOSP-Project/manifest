@@ -25,14 +25,14 @@ Initialize the Repositories with reduced download size
 Then to sync up:
 ---------------
 ```bash
-    repo sync --force-sync --force-broken --no-clone-bundle -jx ( here "x" is the number of threads )
+    repo sync --force-sync --force-broken --no-clone-bundle --no-tags -jx ( here "x" is the number of threads )
 ```
 
 Finally to build:
 -----------------
 ```bash
     . build/envsetup.sh
-     lunch desi_<device>-userdebug
+     lunch dosp_<device>-userdebug
      mka desi (or) make desi
 ```
   
