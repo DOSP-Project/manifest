@@ -52,6 +52,7 @@
   <project path="packages/apps/Settings" name="platform_packages_apps_Settings" groups="pdk-fs" remote="desi" />
   <project path="packages/apps/DesiOTA" name="platform_packages_apps_DesiOTA" groups="pdk-fs" remote="desi" />
   <project path="vendor/dosp" name="platform_vendor_dosp" remote="desi" />
+  <project path="vendor/aosp" name="platform_vendor_aosp" remote="desi" />
   <project path="external/wpa_supplicant_8" name="platform_external_wpa_supplicant_8" groups="pdk" remote="desi" />
   <project path="frameworks/base" name="platform_frameworks_base" groups="pdk-cw-fs,pdk-fs" remote="desi" />
   <project path="frameworks/native" name="platform_frameworks_native" groups="pdk" remote="desi" />
